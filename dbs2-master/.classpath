@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DBS2-Uebung03/src"/>
+	<classpathentry kind="src" path="JDBC/src"/>
+	<classpathentry kind="src" path="ReadMovieDB/src"/>
+	<classpathentry kind="lib" path="DBS2-Uebung03/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="ReadMovieDB/ReadMovieDB.jar"/>
+	<classpathentry kind="output" path="DBS2-Uebung03/bin"/>
+</classpath>
